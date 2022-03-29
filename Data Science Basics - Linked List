@@ -5,6 +5,7 @@
     "colab": {
       "name": "Data Science Basics - Linked List.ipynb",
       "provenance": [],
+      "collapsed_sections": [],
       "authorship_tag": "ABX9TyO6C+QlXQwKtoR0GCSdn24J",
       "include_colab_link": true
     },
@@ -47,7 +48,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 1,
+      "execution_count": 24,
       "metadata": {
         "id": "s7mfoUinBtO8"
       },
@@ -194,7 +195,7 @@
       "metadata": {
         "id": "2Hit1eZ3CXoH"
       },
-      "execution_count": 22,
+      "execution_count": 25,
       "outputs": []
     },
     {
@@ -234,9 +235,9 @@
           "base_uri": "https://localhost:8080/"
         },
         "id": "FksfDR_4EArG",
-        "outputId": "8e491ccf-0fa6-4e61-e40c-210fa1a3ac01"
+        "outputId": "4043b984-6fe8-4b34-b230-667cb369fc93"
       },
-      "execution_count": 23,
+      "execution_count": 26,
       "outputs": [
         {
           "output_type": "stream",
@@ -260,7 +261,7 @@
       "metadata": {
         "id": "qRYcVkUfKQU4"
       },
-      "execution_count": null,
+      "execution_count": 26,
       "outputs": []
     }
   ]
